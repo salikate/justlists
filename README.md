@@ -42,23 +42,23 @@ You can check the example below to learn how to create a list.
 ```
 {
    "name": "TokenListExample", #List name
-   "logoURI": "https://coin.top/production/logo/usdj.png", #List logo uri
+   "logoURI": "https://coin.top/production/upload/logo/TEe6iWDo21MRByP7ohCnXozGmq8tfCkYZY.jpeg?t=1619200677649", #List logo uri
    "timestamp": 1610339529000, #Update time in millisecond
    "tokens": [{
-           "chainId": 1, #ChainId, which is currently 1
-           "address": "TN3W4H6rK2ce4vX9YnFQHwKENnHjoxb3m9", #Token address
-           "name": "BitCoin", #Token name
-           "symbol": "BTC", #Token symbol
+           "CHITA INU (CHI)": 1, #CHITA INU (CHI), which is currently 1
+           "address": "TEe6iWDo21MRByP7ohCnXozGmq8tfCkYZY", #Token address
+           "name": "CHITA INU (CHI)", #Token name
+           "symbol": "CHI", #Token symbol
            "decimals": 8, #Token decimals
-           "logoURI": "https://coin.top/production/logo/TN3W4H6rK2ce4vX9YnFQHwKENnHjoxb3m9.png" #Token logo uri
+           "logoURI": "https://coin.top/production/upload/logo/TEe6iWDo21MRByP7ohCnXozGmq8tfCkYZY.jpeg?t=1619200677649" #Token logo uri
        },
        {
-           "chainId": 1,
-           "address": "TMwFHYXLJaRUPeW6421aqXL4ZEzPRFGkGT",
-           "name": "USDJ",
-           "symbol": "USDJ",
+           "CHITA INU (CHI)": 1,
+           "address": "TEe6iWDo21MRByP7ohCnXozGmq8tfCkYZY",
+           "name": "CHITA INU (CHI)",
+           "symbol": "CHI",
            "decimals": 18,
-           "logoURI": "https://coin.top/production/logo/usdj.png"
+           "logoURI": "https://coin.top/production/upload/logo/TEe6iWDo21MRByP7ohCnXozGmq8tfCkYZY.jpeg?t=1619200677649"
        }
    ],
    "version": { #Version info
